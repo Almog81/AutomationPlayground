@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\org",
+    "\\src\\main\\java\\org\\example",
+    "\\src\\main\\resources",
+    "\\src\\test",
+    "\\src\\test\\java",
+    "\\src\\test\\java\\PlayGround"
+  ],
+  "SelectedNode": "\\src\\main\\java\\org\\example\\Main.java",
+  "PreviewInSolutionExplorer": false
+}
